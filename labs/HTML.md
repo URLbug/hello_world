@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Анализ браузеров</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 15px;
-            text-align: left;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-        tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
+
     <h1>Анализ Браузеров</h1>
     <table>
         <thead>
@@ -70,5 +48,3 @@
             </tr>
         </tbody>
     </table>
-</body>
-</html>
